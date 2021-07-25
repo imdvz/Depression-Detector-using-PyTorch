@@ -1,6 +1,6 @@
 # Depression-Detector-using-PyTorch
 
-This repository contains code for scraping tweets from Twitter.com and detecting depression from the tweet.
+This repository contains scraping of tweets from Twitter.com and detecting depression from them.
 
 It contains codes where I scrape, clean, train and find accuracy and loss for both train and validation sets.
 
